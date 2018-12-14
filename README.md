@@ -1,2 +1,2 @@
-# final-exam-javabio-ppke
-Java Bio final exam task
+# Java Bio final exam
+This repository contains Barsi Szilvia's solution for Task 3.
